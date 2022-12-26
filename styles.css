@@ -1,0 +1,13 @@
+#title-container {
+	text-align: center;
+	width: 100%;
+}
+
+#img-div {
+	width: 100%;	
+	text-align: center;
+}
+
+#image {
+	max-width: 75%;
+}
